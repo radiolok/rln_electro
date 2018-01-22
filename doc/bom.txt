@@ -1,0 +1,45 @@
+1. DG350-3.5-02P-14 	Screw Terminals 2x3,5mm step. Green color.  	33Pcs.
+2. PLS-40	Connecting pins	35 pins
+3. DB9M	COM-port 9-pin Male socket angle mounted	1pcs
+4. USB-B 1J	USB socket angle mounted	1pcs
+5. IDC10	Pin Socket 2x5 Male Angle Mounted	3pcs
+6. IDC10	Pin Socket 2x5 Male Vertical Mounted	4pcs
+7. KAN0611-0501B	Button 5mm high.	6pcs
+8. POE-RJ45	Ethernet connector with integrated transformers	1pcs
+9. 7-0088	Power Connector 	1pcs
+10. Tianbo TR5V-L-5VDC-S-Z 	5V relay	6pcs
+11. RS09-N-30 10 К	Potentiometer with plastic handle	4pcs
+12. EC12E2420404	24-pulse encoder, looks like potentiometer	1pcs
+13. Green Handle	Handle for potentimeters and encoder	5pcs
+14. ACM1602K-FL	Character LCDC 16x2 with left top placed pads Non soldering!	1pcs
+15. CPD-03641SR1/A	LED 4digits indicator Red With common Anod	1pcs
+16. BLM21	SMD EMF Filters BLM21AG121SN1	3pcs
+17. MI0805K400R-10	Ferrite bead	1pcs
+18. LQH32CN100K	SMD Inductions 1210 size 10uHn	1pcs
+19. Crystal HC49/S	Qrystal Oscillator 25MHz and 16MHz	2pcs
+20. BC817	SMD general purpose transistor n-p-n	10pcs
+21. 4N33-X009T	SMD Darlington optocouple	4pcs
+22. CAY16-4990-F4	4 Isolated resistors array 1% accuracy, 49R9	2pcs
+23. R-0603-10k	SMD 10k resistor 0603 size	1pcs
+24. R-0603-300R-1%	SMD 300R resistor 1% accuracy0603 size	4pcs
+25. 3362P 10k	10k Trimmer 	1pcs
+26. C-EUC0603-100n	SMD capacitor 100n 0603size	9pcs
+27. C-47u-25V	SMD Capacitor 47uFx25V D size	2pcs
+28. C-10uFx15V	SMD Capacitor 10uFx25V size A	3pcs
+29. 1N4148WS	SMD Diode 1206 size	6pcs
+30. µA78M05CKTPR	D-Pack2 5Volt stabilizer	1pcs
+31. FT232RL	USB-uart converter	1pcs
+32. Atmega1280-16AU	Main Microcontroller	1pcs
+33. ADM3485E	SMD Soic-8 rs-485 tranciever	1pcs
+34. MC33269D-3	LDO 3,3V stabilizer	1pcs
+35. CAT811TTBI-CT3	logic microscheme	1pcs
+36. W5100	Ethernet controller LQFP-80 package	1pcs
+37. ACS712	Hall current sensor	1pcs
+38. MAX232CSE	RS-232 transiever soic16/209 package	1pcs
+39. 74LVC1G14DBV	logic microscheme	1pcs
+40. R-103-0805	SMD resistor 0805 size 10k	18pcs
+41. R-102-0805	SMD resistor 0805 size 1k	8pcs
+42. R-101-0805	SMD resistor 0805 size 100R	10pcs
+43. R-472-0805	SMD resistor 0805 size 4,7k	4pcs
+44. C-220-0805	SMD capacitor 0805size, 22pF 	2pcs
+45. C-104-0805	SMD capacitor 0805 size 100nF	16pcs
